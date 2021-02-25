@@ -13,7 +13,6 @@
         </button>
       </div>
       <?php session_unset(); } ?>
-
       <!-- add form -->
       <div class="card card-body">
       <h1 for="rol">Registrarse</h1>
